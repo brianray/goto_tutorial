@@ -9,7 +9,7 @@ Install Instructions
  1. Install Anaconda Python from [here](https://www.continuum.io/downloads) Use 
     Python 2.7 be default, Python 3.x will also work.
  2. git clone https://github.com/brianray/goto_tutorial.git
- 3. cd PythonClass
+ 3. cd goto_tutorial
  4. jupyter notebook
  
 
